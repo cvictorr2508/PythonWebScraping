@@ -1,2 +1,2 @@
 # PythonWebScraping
-Repositórido do Curso Python Web Scraping
+Repositório do Curso Python Web Scraping
