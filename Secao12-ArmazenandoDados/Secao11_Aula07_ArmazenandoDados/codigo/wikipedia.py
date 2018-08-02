@@ -23,7 +23,19 @@ def getLinks(urlArtigo):
     return bs.find('div', {'id':'bodyContent'}).\
         findAll('a', href=re.compile('^(/wiki/)((?!:).)*$'))
 
+# ^ -> Indica o início da string
+# (/wiki/) -> Contenha /wiki/
+# ((?!:) -> Afirmação negativa para não pegar ":"
+# . -> Qualquer caractere
+# )* -> Em qualquer quantidade
+# $ -> Indica o final da string
+# Exemplo:
+# <a href="/wiki/Wikip%C3%A9dia:Boas-vindas">Boas-vindas</a>
+# Vai pegar: "/wiki/Wikip%C3%A9dia"
+
 links = getLinks('/wiki/Copa_do_Mundo_FIFA_de_2026')
+for link in links:
+    print("Link: " + link)
 
 try:
     contador = 1
@@ -31,6 +43,8 @@ try:
         novoArtigo = links[random.randint(0, len(links)-1)].attrs['href']
         print(str(contador) + " -> " + novoArtigo)
         links = getLinks(novoArtigo)
+        for link in links:
+            print("Link: " + link)
         contador += 1
 finally:
     cursor.close()
