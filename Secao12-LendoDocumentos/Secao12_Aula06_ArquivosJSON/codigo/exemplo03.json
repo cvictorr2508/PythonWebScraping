@@ -1,0 +1,18 @@
+[
+  {
+    "Curso": "Python Web Scraping","Secao": "12", "Nome Secao": "Lendo documentos",
+    "Numero da Aula": "05", "Descricao da Aula": "Arquivos JSON"
+  },
+  {
+    "Curso": "Python Para Todos","Secao": "08", "Nome Secao": "Estrutura de dados",
+    "Numero da Aula": "01", "Descricao da Aula": "Listas"
+  },
+  {
+    "Curso": "Usando Python para Análise de dados","Secao": "03", "Nome Secao": "Introdução ao NumPy",
+    "Numero da Aula": "04", "Descricao da Aula": "Indexação booleana"
+  },
+  {
+    "Curso": "Terminal Linux e Prompt de Comando do Windows","Secao": "04", "Nome Secao": "Comandos Básicos",
+    "Numero da Aula": "03", "Descricao da Aula": "Comandos de manipulação de pastas"
+  }
+]

@@ -1,0 +1,26 @@
+{
+    "DESPESA":
+    [
+        {"indTipoDocumento":0,"numRessarcimento":5828,"ideDocumento":6266962,"nuCarteiraParlamentar":1,
+            "datEmissao":"2017-04-26 00:00:00","vlrGlosa":"0","codLegislatura":55,"numMes":4,"numSubCota":1,
+            "sgUF":"RR","idecadastro":178957,"numAno":2017,"txtNumero":"3592","sgPartido":"DEM",
+            "txNomeParlamentar":"ABEL MESQUITA JR.","txtDescricao":"MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "txtCNPJCPF":"12132854000100","txtFornecedor":"WM PAPELARIA E ESCRITÓRIO","numParcela":0,
+            "nuLegislatura":2015,"txtDescricaoEspecificacao":"","vlrDocumento":"296","numEspecificacaoSubCota":0,
+            "vlrLiquido":"296","nuDeputadoId":3074,"numLote":1377952,"vlrRestituicao":"0","txtPassageiro":null,"txtTrecho":null},
+        {"indTipoDocumento":0,"numRessarcimento":5993,"ideDocumento":6408821,"nuCarteiraParlamentar":1,
+            "datEmissao":"2017-10-05 00:00:00","vlrGlosa":"0","codLegislatura":55,"numMes":10,"numSubCota":1,
+            "sgUF":"RR","idecadastro":178957,"numAno":2017,"txtNumero":"321","sgPartido":"DEM",
+            "txNomeParlamentar":"ABEL MESQUITA JR.","txtDescricao":"MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+            "txtCNPJCPF":"12132854000100","txtFornecedor":"WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA - ME","numParcela":0,
+            "nuLegislatura":2015,"txtDescricaoEspecificacao":"","vlrDocumento":"175","numEspecificacaoSubCota":0,
+            "vlrLiquido":"175","nuDeputadoId":3074,"numLote":1430312,"vlrRestituicao":"0","txtPassageiro":null,"txtTrecho":null},
+        {"indTipoDocumento":0,"numRessarcimento":6041,"ideDocumento":6450961,"nuCarteiraParlamentar":1,
+            "datEmissao":"2017-10-23 00:00:00","vlrGlosa":"0","codLegislatura":55,"numMes":10,"numSubCota":3,
+            "sgUF":"RR","idecadastro":178957,"numAno":2017,"txtNumero":"389857","sgPartido":"DEM",
+            "txNomeParlamentar":"ABEL MESQUITA JR.","txtDescricao":"COMBUSTÍVEIS E LUBRIFICANTES.",
+            "txtCNPJCPF":"00692418000107","txtFornecedor":"AUTO POSTO CINCO ESTRELAS LTDA","numParcela":0,
+            "nuLegislatura":2015,"txtDescricaoEspecificacao":"Veículos Automotores","vlrDocumento":"100","numEspecificacaoSubCota":1,
+            "vlrLiquido":"100","nuDeputadoId":3074,"numLote":1446095,"vlrRestituicao":"0","txtPassageiro":null,"txtTrecho":null}
+    ]
+}
